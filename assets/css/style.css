@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #45505b;
 }
 
 a {
@@ -189,7 +189,7 @@ h6 {
 .nav-menu a span,
 .nav-menu a:focus span {
   padding: 0 5px 0 7px;
-  color: #45505b;
+  color: #b9d5f1;
 }
 
 @media (min-width: 992px) {
@@ -252,7 +252,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #45505b;
+  color: #a0b8d1;
 }
 
 .mobile-nav-active {
@@ -287,7 +287,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.552);
+  background: rgba(255, 255, 255, 0);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -404,7 +404,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #728394;
+  color: #45505b;
 }
 
 .about .content ul {
